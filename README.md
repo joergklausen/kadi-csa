@@ -4,3 +4,5 @@ The KADI (Knowledge and climate services from an African observation and Data re
 This repo mainly serves the partnership between Kenya Meteorological Department KMD and the Swiss project partners MeteoSwiss, Empa and Agroscope.
 
 Please see the [Wiki](https://github.com/joergklausen/kadi-csa/wiki) for more information.
+
+*Internal* [KADI Confluence space](https://icos-ri.atlassian.net/wiki/spaces/KADI/overview)
